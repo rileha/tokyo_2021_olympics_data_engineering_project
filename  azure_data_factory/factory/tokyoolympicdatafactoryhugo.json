@@ -1,0 +1,9 @@
+{
+	"name": "tokyoolympicdatafactoryhugo",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5244061d-9e37-4eee-8e15-5f1ac54e839d",
+		"tenantId": "8c3350c5-de17-460b-9cac-d8bf0f1257dd"
+	}
+}
